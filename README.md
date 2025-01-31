@@ -20,7 +20,7 @@ Oportunidades para colaborar en proyectos de desarrollo Full Stack y aprender ju
 Mi objetivo es mejorar continuamente, aplicando mis conocimientos en proyectos reales que puedan aportar valor.
 
 ### 📫 Conectemos
-- [LinkedIn][(https://(https://github.com/RoiVigo91)]/_(ajusta el enlace a tu perfil si tienes uno)_
+- [LinkedIn www.linkedin.com/in/roi-oliveira-outeda-75729423a][(https://(https://github.com/RoiVigo91)]/_(ajusta el enlace a tu perfil si tienes uno)_
 
 ### ⚡ Datos curiosos
 Cuando no estoy programando, puedes encontrarme disfrutando de la comida, un buen café, o buscando inspiración en la tecnología para seguir aprendiendo y creando.
